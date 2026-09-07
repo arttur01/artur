@@ -30,7 +30,7 @@ Sou um desenvolvedor em constante evolução, unindo a base de **Técnico em Inf
 
 ### 📂 Projeto em Destaque
 #### [Engine de Gestão Comercial: Smart Retail](https://github.com/arttur01/gestao-varejo-python)
-Sistema de varejo desenvolvido em **Python** com foco em modularização assistida por IA (**Gemini**).
+Sistema de varejo desenvolvido em **Python** com foco em modularização assistida por IA.
 *   **Arquitetura:** Implementação de Injeção de Dependência e padrão Repository.
 *   **Destaque:** Código estruturado para ser a base lógica de sistemas de checkout autônomo com **OpenCV**.
 
