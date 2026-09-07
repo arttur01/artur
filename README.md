@@ -6,7 +6,7 @@
 
 ---
 
-### 👁️ Focado em Computer Vision
+### 👁️ Focado em Automação
 Sou um desenvolvedor em constante evolução, unindo a base de **Técnico em Informática** com a graduação em **Análise e Desenvolvimento de Sistemas**. Sou um entusiasta e praticante de **Pair Programming com IA**, utilizando ferramentas como o **Gemini** para elevar a qualidade e a arquitetura dos meus projetos.
 
 *   🎓 **Graduando em ADS:** Recém-matriculado na **Cruzeiro do Sul Virtual**.
